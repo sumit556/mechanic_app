@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538059942260",
+    "project_id": "mechanic-ec7b4",
+    "storage_bucket": "mechanic-ec7b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538059942260:android:c0065b228cc31657676421",
+        "android_client_info": {
+          "package_name": "com.sumit.mechanic_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxtQV8L4Dyxs2xPlm3O75wrpElg4yPJmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
